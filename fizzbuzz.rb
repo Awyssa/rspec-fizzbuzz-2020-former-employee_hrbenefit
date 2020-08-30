@@ -10,3 +10,5 @@ def fizzbuzz(i)
     puts i
  end
 end
+
+fizzbuzz
